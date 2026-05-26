@@ -26,9 +26,9 @@ You are connected to a Sushidata dataspace via API. This skill governs two compl
 
 **BASE URL**: `https://dashboard.sushidata.ai/public/019e2180-9695-77fd-be70-0d8c249ae203/`
 
-**Tenant**: `Thru Content Marketing`
+**Tenant**: `Careerwood Marketing`
 
-**Dataspace**: `Thru Content Marketing Internal`
+**Dataspace**: `Careerwood Marketing Internal`
 
 **Required header on all requests**: `Content-Type: application/json`
 

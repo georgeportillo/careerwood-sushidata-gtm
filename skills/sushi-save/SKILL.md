@@ -13,8 +13,8 @@ When triggered, give the user a choice of what to save, then write their
 selection to the Sushidata context lake.
 
 BASE URL: https://dashboard.sushidata.ai/public/019e2180-9695-77fd-be70-0d8c249ae203/
-Tenant: Thru Content Marketing
-Dataspace: Thru Content Marketing Internal
+Tenant: Careerwood Marketing
+Dataspace: Careerwood Marketing Internal
 
 ---
 

@@ -16,8 +16,8 @@ lake and brief the user on what was found. This replaces the need to reload
 a prior conversation.
 
 BASE URL: https://dashboard.sushidata.ai/public/019e2180-9695-77fd-be70-0d8c249ae203/
-Tenant: Thru Content Marketing
-Dataspace: Thru Content Marketing Internal
+Tenant: Careerwood Marketing
+Dataspace: Careerwood Marketing Internal
 
 ---
 
