@@ -1,16 +1,16 @@
 {
-	"name": "careerwood-sushidata-gtm",
-	"owner": {
-		"name": "Sushidata"
-	},
-	"plugins": [
-		{
-			"name": "careerwood-sushidata-gtm",
-			"source": {
-				"source": "github",
-				"repo": "georgeportillo/careerwood-sushidata-plugin"
-			},
-			"description": "Sushidata context lake + GTM agent: prospecting, outbound, competitor battlecards, ICP signals, and outreach copy."
-		}
-	]
+  "name": "careerwood-sushidata-gtm",
+  "owner": {
+    "name": "Sushidata"
+  },
+  "plugins": [
+    {
+      "name": "careerwood-sushidata-gtm",
+      "source": {
+        "source": "github",
+        "repo": "georgeportillo/careerwood-sushidata-gtm"
+      },
+      "description": "Sushidata context lake + GTM agent: prospecting, outbound, competitor battlecards, ICP signals, and outreach copy."
+    }
+  ]
 }
